@@ -5,3 +5,7 @@ Web scraping, web harvesting, or web data extraction is data scraping used for e
 
 ![image](images/web_scraping.png)
 
+
+
+
+## Case 1: scraping stock CNN market webpage and send email with results to your inbox
