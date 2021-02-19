@@ -10,3 +10,5 @@ Web scraping, web harvesting, or web data extraction is data scraping used for e
 
 
 ## Case 1: Scraping CNN US market webpage and send email with results to your inbox
+
+The script will scrape data from this webpage
