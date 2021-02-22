@@ -14,7 +14,10 @@ Web scraping, web harvesting, or web data extraction is data scraping used for e
 Let's say you monitor stocks everyday and you want to check the day closing results by end of day and want it to be sent to your email. This script will do it for you.
 
 ##### The script will scrape data from this webpage
-Libraries needed: ![Selenium](https://chromedriver.chromium.org/getting-started) and Beautifulsoup 
+Libraries needed: [Selenium](https://chromedriver.chromium.org/getting-started)
+
+
+and Beautifulsoup 
 
 
 ![image](images/cnn_us_markets.jpg)
