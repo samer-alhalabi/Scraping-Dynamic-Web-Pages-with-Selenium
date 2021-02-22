@@ -1,4 +1,4 @@
-# Scraping-Dynamic-Web-Pages-with-Selenium
+# Web Scraping
 
 #### What is Web Scraping?
 
