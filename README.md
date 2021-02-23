@@ -34,7 +34,10 @@ required : [Beautifulsoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc
 
 Libraries needed: [Selenium](https://chromedriver.chromium.org/getting-started) and [Beautifulsoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
-This app will navigate through EPL website and scrape data for the player you chose.
+This app will navigate through EPL website and scrape data for the player you picked.
+
+##### The script will navigate to Players page
+
 
 
 
