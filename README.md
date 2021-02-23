@@ -36,7 +36,29 @@ Libraries needed: [Selenium](https://chromedriver.chromium.org/getting-started) 
 
 This app will navigate through EPL website and scrape data for the player you picked.
 
-##### The script will navigate to Players page
+##### Frist, the script will ask you to type the name of player you are intrested in (for our case I picked: Mohamed Salah)
+
+![image](images/input_name.jpg)
+
+##### Then, app will navigate to the players page and search for the player (Mohamed Salah) and click on the name.
+
+![image](images/search_player.jpg)
+
+##### App will navigate to the stats page and from the dropdown will pick season 2020/21.
+
+![image](images/nav_stats.jpg)
+
+##### This is what will be scraped.
+
+![image](images/scrape_stats.jpg)
+
+##### Finally, app will return a stat summary for the player.
+
+![image](images/stats_report.jpg)
+
+
+
+
 
 
 
