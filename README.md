@@ -36,11 +36,11 @@ Libraries needed: [Selenium](https://chromedriver.chromium.org/getting-started) 
 
 This app will navigate through EPL website and scrape data for the player you picked.
 
-##### Frist, the script will ask you to type the name of player you are intrested in (for our case I picked: Mohamed Salah)
+##### The script will ask you to type the name of player you are intrested in (for our case I picked: Mohamed Salah)
 
 ![image](images/input_name.jpg)
 
-##### Then, app will navigate to the players page and search for the player (Mohamed Salah) and click on the name.
+##### App will navigate to the players page and search for the player (Mohamed Salah) and click on the name.
 
 ![image](images/search_player.jpg)
 
@@ -48,7 +48,7 @@ This app will navigate through EPL website and scrape data for the player you pi
 
 ![image](images/nav_stats.jpg)
 
-##### This is what will be scraped.
+##### This is what it will be scraped.
 
 ![image](images/scrape_stats.jpg)
 
