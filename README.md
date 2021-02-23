@@ -28,3 +28,16 @@ required : [Beautifulsoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc
 ##### Results will be sent to your inbox
 ![image](images/c1_r.jpg)
 
+
+
+## Project 2: Scrape your favorite English Premier League player stats
+
+Libraries needed: [Selenium](https://chromedriver.chromium.org/getting-started) and [Beautifulsoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+
+This app will navigate through EPL website and scrape data for the player you chose.
+
+
+
+
+
+
