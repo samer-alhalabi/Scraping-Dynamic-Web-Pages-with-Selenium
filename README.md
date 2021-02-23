@@ -41,11 +41,11 @@ This app will navigate through EPL website and scrape data for the player you pi
 
 ![image](images/input_name.jpg)
 
-##### App will navigate to the players page and search for the player (Mohamed Salah) and click on the name.
+##### Selenium's driver will navigate to the players page and search for the player (Mohamed Salah) and click on the name.
 
 ![image](images/search_player.jpg)
 
-##### App will navigate to the stats page and from the dropdown will pick season 2020/21.
+##### Navigate to the stats page and from the dropdown will pick season 2020/21.
 
 ![image](images/nav_stats.jpg)
 
@@ -53,7 +53,7 @@ This app will navigate through EPL website and scrape data for the player you pi
 
 ![image](images/scrape_stats.jpg)
 
-##### Finally, app will return a stat summary for the player.
+##### Finally, the app will return a stat summary for the player.
 
 ![image](images/stats_report.jpg)
 
