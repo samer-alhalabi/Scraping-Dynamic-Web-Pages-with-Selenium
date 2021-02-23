@@ -28,6 +28,7 @@ required : [Beautifulsoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc
 ##### Results will be sent to your inbox
 ![image](images/c1_r.jpg)
 
+#### Note: To automate this app, you can schedule the script using Windows Scheduler. For more info: https://datatofish.com/python-script-windows-scheduler/
 
 
 ## Project 2: Scrape your favorite English Premier League player stats
