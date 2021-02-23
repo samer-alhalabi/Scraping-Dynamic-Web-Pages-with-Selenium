@@ -10,7 +10,7 @@ Web scraping, web harvesting, or web data extraction is data scraping used for e
 
 
 
-## Project 1: An app to scrape stocks data and send info to your inbox
+## Project 1: Scrape stocks data and send scraped data to your inbox
 Let's say you monitor stocks everyday and you want to check the day closing results by end of day and want it to be sent to your email. This script will do it for you.
 
 Libraries: optional: [Selenium](https://chromedriver.chromium.org/getting-started) 
