@@ -10,7 +10,7 @@ Web scraping, web harvesting, or web data extraction is data scraping used for e
 
 
 
-## Project 1: Scrape stocks data and send scraped data to your inbox
+## Project 1: Scraping stocks data and send scraped data to your inbox
 Let's say you monitor stocks everyday and you want to check the day closing results by end of day and want it to be sent to your email. This script will do it for you.
 
 Libraries: optional: [Selenium](https://chromedriver.chromium.org/getting-started) 
@@ -31,7 +31,7 @@ required : [Beautifulsoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc
 #### Note: To automate this app, you can schedule the script using Windows Scheduler. For more info: https://datatofish.com/python-script-windows-scheduler/
 
 
-## Project 2: Scrape your favorite English Premier League player stats
+## Project 2: Scraping your favorite English Premier League player stats
 
 Libraries needed: [Selenium](https://chromedriver.chromium.org/getting-started) and [Beautifulsoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
