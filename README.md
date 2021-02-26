@@ -15,7 +15,7 @@ Let's say you monitor stocks everyday and you want to check the day closing resu
 
 Libraries: optional: [Selenium](https://chromedriver.chromium.org/getting-started) 
 required : [Beautifulsoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-###### Note: In this app I used both, but you can use Beautifulsoup only to load the targeted webpage. Selenium will be helpful with the website navigation. Project 2 will showcase. 
+###### Note: In this app I used both libraries, but you can use Beautifulsoup only to load the targeted webpage. Selenium will be helpful with the website navigation. Project 2 will showcase. 
 
 ##### The script will scrape data from this webpage
 
